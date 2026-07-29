@@ -118,7 +118,7 @@ While most people might be inclined towards memorization, it's much better to pe
 
 ### 4. Practice other questions by yourself or with AI
 
-Even though trying to anticipate questions beyond the Big Three is challenging, you can get a lot of value out of practicing your story telling skills on sample questions. You may refer to [my list of 30 questions](./behavioral-interview-questions.md) which were collated across top tech companies for this. Also, going through this process will help you identify if there are significant gaps in your story catalog centered around specific signal areas. For example, perhaps you need more stories around past mistakes or .
+Even though trying to anticipate questions beyond the Big Three is challenging, you can get a lot of value out of practicing your story telling skills on sample questions. You may refer to [my list of 30 questions](./behavioral-interview-questions.md) which were collated across top tech companies for this. Also, going through this process will help you identify if there are significant gaps in your story catalog centered around specific signal areas. For example, perhaps you need more stories around past mistakes or leadership moments.
 
 This is a natural place to use chatbots: prompt an LLM to ask you these questions and give you feedback on your responses. Also encourage the AI to ask you follow up questions.
 
