@@ -114,7 +114,7 @@ Despite our advice that preparing for specific questions has limited value, ther
 - Tell me about your favorite project/most impactful project/etc.: pick a project at the intersection of impact, scope, and your personal involvement.
 - Tell me about time when you resolved a conflict: this is the most common soft skill question. Check out a series of posts on choosing and structuring a response starting [here](https://thebehavioral.substack.com/p/conflict-stories-1-of-5-workplace).
 
-While most people might be inclined towards memorization, it's much better to pen down bullet points to each question and practice verbalizing them near to the interviews, so that your answers will come out more naturally.
+While most people might be inclined toward memorization, it's much better to pen down bullet points to each question and practice verbalizing them near to the interviews, so that your answers will come out more naturally.
 
 ### 4. Practice other questions by yourself or with AI
 
